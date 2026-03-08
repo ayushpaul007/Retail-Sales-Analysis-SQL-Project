@@ -173,4 +173,3 @@ This project demonstrates practical SQL skills including database setup,
 data cleaning, exploratory analysis, and business insight generation
 using retail sales data.
 
-⭐ If you found this project useful, feel free to star the repository.
